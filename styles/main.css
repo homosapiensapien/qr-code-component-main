@@ -67,7 +67,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: var(--spacing-500) var(--spacing-200);
+  padding: var(--spacing-200);
   border-radius: 20px;
 }
 
